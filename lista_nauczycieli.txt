@@ -1,0 +1,14 @@
+Grazyna Zarko Matematyka 60 1
+Barbara Szymanska Matematyka 40 2
+Maja Lewandowska Matematyka 70 3
+Bartlomiej Kowalczyk Fizyka 30 4
+Mikolaj Paluch Fizyka 60 5
+Karol Mazur Historia 50 6
+Zuzanna Malecka Polski 50 7
+Kaja Debska Polski 30 8
+Natalia Jankowska Biologia 40 9
+Oliwia Wisniewska Chemia 40 10
+Zofia Piotrowska Angielski 50 11
+Dominika Leszczynska Angielski 40 12
+Barbara Grzelak Angielski 50 13
+Weronika Augustyniak Niemiecki 30 14

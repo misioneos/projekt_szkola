@@ -1,0 +1,16 @@
+Projekt o szkole
+Projekt bêdzie wzorowany na grach rpg i Sims. Wszystko siê dzieje w szkole. Ka¿dy obiekt bêdzie mieæ swoje statystki takie jak imie, nazwisko, wiek, a tak¿e dodatkowe statystki zale¿ne od klasy postaci.
+
+Klasy (postacie):
+-Uczeñ (nasz bohater) - nasz bohater bêdzie mia³ dane takie jak: imie, nazwisko, wiek, sila (0-100), intelekt (0-100), zrêcznoœæ (0-100), g³ód (0-100) i ¿ycie (0-100)
+-Uczniowie - znajomi bohatera, dane: imie, nazwisko, wiek, stopieñ przyjaŸni (0-100), si³a (0-100), ¿ycie (0-100), pieniadze
+-Nauczyciele - dane: imie, nazwisko, przedmiot, nauczanie (0-100), numer sali, metoda ucz_sie
+-WFista - dane: nr_sali, metoda trenuj
+
+Klasy (pomieszczenia):
+-Sala - dane: liczba miejsc (od tego bedzie zalezne czy mozna wejsc), numer sali (nauczyciel ma przypisany)
+-Hala - dane: numer sali, metoda cwicz
+-Sto³ówka - dane: numer_sali, zupa, danie, obiad, metody zjedz_zupe/danie/obiad i gettery zupy/dania/obiadu
+-Korytarz
+-Klubik
+
